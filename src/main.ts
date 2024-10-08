@@ -8,4 +8,4 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
     <h2>BUENAS PRACTICAS</h2>
   </div>
-`
+`;
